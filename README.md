@@ -10,6 +10,12 @@ Pour créer un environnement virtuel Python :
 py -m venv venv
 ```
 
+Active-le ensuite avec :
+
+```Bash
+.\\venv\\Scripts\\activate
+```
+
 ## 📁 Contenu des exercices
 
 ✅ Exercice 1 : Âge de l'utilisateur
