@@ -44,3 +44,9 @@ Affiche les carrés des nombres de 1 jusqu'à une limite définie par l'utilisat
 
 🧪 Exercice 7 : Test de primalité (bis)
 Deuxième version du test de nombre premier, avec une approche différente ou optimisée.
+
+🟥 Exercice 8 : Afficher un nom en rouge (🤣)
+Affiche un nom saisi par l'utilisateur en rouge dans le terminal.
+
+🗺️ Exercice 9 : Afficher le nom du département
+Demande à l'utilisateur un numéro de département et affiche son nom à l'aide d'une base de données SQLite.
