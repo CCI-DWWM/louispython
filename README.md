@@ -44,3 +44,4 @@ Affiche les carrés des nombres de 1 jusqu'à une limite définie par l'utilisat
 
 🧪 Exercice 7 : Test de primalité (bis)
 Deuxième version du test de nombre premier, avec une approche différente ou optimisée.
+caca
