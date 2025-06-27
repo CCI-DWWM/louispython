@@ -1,12 +1,4 @@
-class Exercice7:
-    @staticmethod
-    def est_premier(N):
-        if N <= 1:
-            return False
-        for i in range(2, int(N**0.5) + 1):
-            if N % i == 0:
-                return False
-        return True
+import Exercice7.py
 
 def test_Exercice7():
     assert Exercice7.est_premier(5)
