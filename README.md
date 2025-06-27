@@ -16,6 +16,12 @@ Active-le ensuite avec :
 .\\venv\\Scripts\\activate
 ```
 
+Installation des librairies :
+
+```Bash
+pip install -r requirements.txt
+```
+
 ## 📁 Contenu des exercices
 
 ✅ Exercice 1 : Âge de l'utilisateur
