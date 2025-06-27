@@ -57,4 +57,4 @@ def get_nom_departement(numero):
 
 # Exemples d'utilisation
 print(get_nom_departement("75"))  # Paris
-print(get_nom_departement("2B"))  # Haute-Corse
+print(get_nom_departement("41"))  # Loir-et-Cher
