@@ -1,6 +1,16 @@
-🐍 louispython
+# 🐍 louispython
 
-📁 Contenu des exercices
+Bienvenue dans **louispython**, une collection d'exercices Python simples et éducatifs pour apprendre les bases de la programmation.
+
+## 💻 Création du VENV
+
+Pour créer un environnement virtuel Python :
+
+```bash
+py -m venv venv
+```
+
+## 📁 Contenu des exercices
 
 ✅ Exercice 1 : Âge de l'utilisateur
 Demande à l'utilisateur son année de naissance et calcule son âge actuel.
